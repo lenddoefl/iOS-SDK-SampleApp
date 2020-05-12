@@ -1,0 +1,68 @@
+/* 
+  Localizable.strings
+  iOS-SDK-Private
+
+  Created by Charmaine on 4/5/20.
+  Copyright © 2020 LenddoEFL. All rights reserved.
+*/
+
+
+/* Document Capture */
+"global_position_document" = "Position the %@ page of your %@ in the frame";
+"global_position_document_proof" = "Position page %d of your %@ in the frame";
+
+"bear" = "beaaaaarrrrr";
+"document_submitted" = "Document submitted!";
+"add_another_page" = "+ Add another page";
+"done" = "Done";
+"the_document_has_been_successfully_processed" = "%@ page of your %@ has been successfully processed.";
+"the_document_has_been_successfully_processed_proof" = "Page %d of your %@ has been successfully processed.";
+"front" = "Front";
+"back" = "Back";
+
+/* Signature */
+"redo" = "REDO";
+"submit" = "SUBMIT";
+"sign_here" = "Sign here";
+"confirmation" = "Confirmation";
+"signature_confirmation_msg" = "Are you sure you want to submit your signature?";
+"no" = "NO";
+"yes" = "YES";
+"processing" = "Processing";
+
+"ok" = "OK";
+"dismiss" = "DISMISS";
+"camera_access" = "Need Access to Camera";
+"camera_required" = "Please give us access to your camera so we can verify you.";
+"mic_access" = "Need Access to Microphone";
+"mic_required" = "Please give us access to your microphone so we can verify you.";
+"camera_and_mic_required" = "Please give us access to your camera and microphone so we can verify you.";
+
+"go_to_settings" = "Go to Settings";
+"permission_denied" = "Permission Denied";
+
+/* Liveness Actions */
+"position_face" = "Position your face within the outline";
+"look_left" = "Turn your head to the left then\nback at the camera";
+"look_right" = "Turn your head to the right then\nback at the camera";
+"look_front" = "Look at the camera";
+"smile" = "Smile";
+"blink" = "Blink your eyes once";
+"show_id" = "Show your id to the camera";
+"read" = "Read the numbers out loud";
+
+"downloading_instructions" = "Downloading instructions...";
+"press_the_button" = "Press the button when you're ready";
+"preview_your_selfie" = "You can now preview your video.";
+"preview" = "Preview";
+"recording_done" = "Recording done!";
+"processing" = "Processing";
+"preparing_video" = "Preparing video for upload...";
+"progress" = "%d%%";
+
+"selfie_done" = "Selfie done!";
+"selfie_done_desc" = "Your selfie has been successfully processed.";
+"next" = "Next";
+
+"liveness_done" = "Liveness done!";
+"liveness_done_desc" = "Your liveness video has been successfully processed.";

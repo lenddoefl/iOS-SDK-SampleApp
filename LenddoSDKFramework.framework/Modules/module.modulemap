@@ -1,0 +1,11 @@
+framework module LenddoSDKFramework {
+  umbrella header "LenddoSDKFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module LenddoSDKFramework.Swift {
+    header "LenddoSDKFramework-Swift.h"
+    requires objc
+}

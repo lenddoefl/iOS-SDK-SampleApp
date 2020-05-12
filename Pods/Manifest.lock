@@ -1,0 +1,58 @@
+PODS:
+  - Alamofire (5.0.5)
+  - CodableAlamofire (1.2.0):
+    - Alamofire (~> 5.0.0-rc.3)
+  - EasyTipView (2.0.4)
+  - KeychainAccess (4.1.0)
+  - PromiseKit (6.13.1):
+    - PromiseKit/CorePromise (= 6.13.1)
+    - PromiseKit/Foundation (= 6.13.1)
+    - PromiseKit/UIKit (= 6.13.1)
+  - PromiseKit/CorePromise (6.13.1)
+  - PromiseKit/Foundation (6.13.1):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.13.1):
+    - PromiseKit/CorePromise
+  - SwiftEventBus (5.0.0)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0)
+  - CodableAlamofire
+  - EasyTipView (~> 2.0.4)
+  - KeychainAccess
+  - PromiseKit (~> 6.8)
+  - SwiftEventBus (from `https://github.com/cesarferreira/SwiftEventBus.git`, tag `5.0.1`)
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CodableAlamofire
+    - EasyTipView
+    - KeychainAccess
+    - PromiseKit
+    - SwiftyJSON
+
+EXTERNAL SOURCES:
+  SwiftEventBus:
+    :git: https://github.com/cesarferreira/SwiftEventBus.git
+    :tag: 5.0.1
+
+CHECKOUT OPTIONS:
+  SwiftEventBus:
+    :git: https://github.com/cesarferreira/SwiftEventBus.git
+    :tag: 5.0.1
+
+SPEC CHECKSUMS:
+  Alamofire: df2f8f826963b08b9a870791ad48e07a10090b2e
+  CodableAlamofire: 0b801d98d9f290ea05479b34f082012adbff9403
+  EasyTipView: 4f8beae0a82db2ca4a9b5fd658785fc5f61d296b
+  KeychainAccess: 445e28864fe6d3458b41fa211bcdc39890e8bd5a
+  PromiseKit: 28fda91c973cc377875d8c0ea4f973013c05b6db
+  SwiftEventBus: b30f617a6aca5a9336464b4d3f5931034762f2d5
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: 9910c1ddf4a4009a9f6db19299dc3c2e0ecc350c
+
+COCOAPODS: 1.9.1

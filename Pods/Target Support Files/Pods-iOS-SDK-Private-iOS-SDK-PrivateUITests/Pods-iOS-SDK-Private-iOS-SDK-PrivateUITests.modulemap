@@ -1,0 +1,6 @@
+module Pods_iOS_SDK_Private_iOS_SDK_PrivateUITests {
+  umbrella header "Pods-iOS-SDK-Private-iOS-SDK-PrivateUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

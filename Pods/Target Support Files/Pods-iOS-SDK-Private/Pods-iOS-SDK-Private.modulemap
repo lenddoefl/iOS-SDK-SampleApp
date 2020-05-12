@@ -1,0 +1,6 @@
+module Pods_iOS_SDK_Private {
+  umbrella header "Pods-iOS-SDK-Private-umbrella.h"
+
+  export *
+  module * { export * }
+}

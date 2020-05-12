@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  iOS-SDK-Private
+
+  Created by Charmaine on 4/5/20.
+  Copyright © 2020 LenddoEFL. All rights reserved.
+*/
+
+"redo" = "REDO_";
+"submit" = "SUBMIT_";
+"sign_here" = "Sign here_";
+"confirmation" = "Confirmation_";
+"signature_confirmation_msg" = "Are you sure you want to submit your signature?_";
+"no" = "NO_";
+"yes" = "YES_";
+"processing" = "Processing_";
