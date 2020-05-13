@@ -63,14 +63,6 @@ class ViewController: UIViewController,
         applicationNameTextField.delegate = self
         applicationNameTextField.text = "TESTIOS"
         
-        // Client side partnerscript will be hardcoded via input
-//        let selfieDocCapParts = "5e8c36bdb64012146ff6d971"
-//        let minmax = "5e8d65e18438d05d2154103d"
-//        let liveness = "5e8c379bb64012146ff6d975"
-        let docSignature = "5e819220ab54367f6f2168cf"
-//        let allItems = "5e8191feab54367f6f2168ce"
-        
-        partnerscriptIdTextField.text = docSignature
     }
     
     override func viewDidAppear(_ animated: Bool) {
